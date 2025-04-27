@@ -12,8 +12,8 @@
 		"start": "node server.js",
 		"dev": "nodemon server.js"
 	},
-	"author": "Akash Deep",
-	"license": "ISC",
+	"author": "Manan Bhatia",
+	"license": "MIT",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
 		"cloudinary": "^1.41.3",
